@@ -156,7 +156,7 @@ h1, h2, h3, h4, h5, h6, p{
     height: 150px;
     margin: 0 auto;
     border-radius: 50%;
-    margin-top:5%;
+    margin-top:50px;
 }
 .about-content h2{
     font-size: 48px;
@@ -670,7 +670,7 @@ blockquote span{
 @media screen and (max-width: 500px){
     /* overall styling */
     .header{
-        padding-bottom: 7px;
+        padding-bottom: 30px;
     }
     .social-icons{
         display: none;
