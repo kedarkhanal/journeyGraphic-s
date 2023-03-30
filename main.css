@@ -670,7 +670,7 @@ blockquote span{
 @media screen and (max-width: 500px){
     /* overall styling */
     .header{
-        padding-bottom: 5px;
+        padding-bottom: 7px;
     }
     .social-icons{
         display: none;
